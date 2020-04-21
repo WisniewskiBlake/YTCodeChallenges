@@ -1,8 +1,5 @@
-* The problem of placing N chess queens on an N×N chessboard so that no two queens threaten
- each other (they will not be able to attack each other)
+* Design an optimal algorithm for checking whether a given string is a palindrome or not
 
 
- * We need to consider that queens can move vertically, horizontally, and diagonally
+* Palindrome: A word or phrase that can be spelled backward the same as forward, ex: "madam", "racecar"
 
-
- * Dijkstra used this problem to illustrate the power of what he called structured programming
